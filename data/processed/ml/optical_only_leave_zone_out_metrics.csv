@@ -1,0 +1,4 @@
+test_zone,n_train,n_test,accuracy,balanced_accuracy,macro_f1
+Castel_Bolognese,32,15,0.6,0.6041666666666666,0.6226190476190476
+Faenza,31,16,0.75,0.75,0.7446428571428572
+Imola,31,16,0.5625,0.5625,0.4847222222222222

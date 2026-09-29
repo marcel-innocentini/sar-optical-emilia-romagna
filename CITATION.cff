@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this pilot workflow or analytical release, please cite it."
+title: "SAR-Optical Multi-Sensor Monitoring of Perennial Crops in Emilia-Romagna, Italy"
+type: dataset
+authors:
+  - family-names: "Innocentini"
+    given-names: "Marcel de Mello"
+    orcid: "https://orcid.org/0009-0006-2409-0946"
+version: "1.0"
+date-released: 2026-09-29
+doi: "10.5281/zenodo.23041619"
+keywords:
+  - Sentinel-1
+  - Sentinel-2
+  - SAR
+  - interferometric coherence
+  - precision agriculture
+  - Emilia-Romagna
+  - multi-sensor fusion

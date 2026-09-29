@@ -1,0 +1,27 @@
+# Raw / heavy satellite data
+data/raw/
+data/processed/sentinel1/
+data/processed/sentinel2/
+*.SAFE/
+*.tif
+*.tiff
+*.zip
+
+# Credentials and local secrets
+.env
+.env.*
+*token*
+*credential*
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

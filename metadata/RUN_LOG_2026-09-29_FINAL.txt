@@ -1,0 +1,44 @@
+SAR-OPTICAL PERENNIAL CROPS ITALY — FINAL v0.1
+Date: 2026-09-29
+
+AOI: Imola–Castel Bolognese–Faenza, Emilia-Romagna
+Reference polygons: 47 (12 vineyard, 12 orchard, 11 olive, 12 annual)
+Primary core buffer: 20 m
+
+Sentinel-1 RTC:
+- Descending path 95 / frame 445
+- 30 acquisitions in 2023
+- 1,410 polygon-date records
+
+Sentinel-2:
+- 5 L2A dates
+- scale 0.0001, offset -0.1 applied before indices
+- NDVI, NDRE, NDMI, GNDVI
+
+InSAR coherence:
+- 6 x 12-day Sentinel-1 SLC pairs
+- 10x2 looks, 40 m output, GLO-30
+- 282 polygon-pair records
+- perpendicular baseline range: -225.6053 to +173.3043 m
+- HyP3 credits used: 90 total (15 June pilot + 75 seasonal extension)
+- remaining credits after seasonal run: 7910
+
+Preferred exploratory model result:
+- Optical only BA mean: 0.652746
+- Aligned SAR only BA mean: 0.557670
+- Aligned SAR+optical BA mean: 0.671117
+- Mean aligned fusion gain over optical: 0.018371
+
+Coherence:
+- 6 raw seasonal features + fusion BA mean: 0.667140
+- coherence temporal descriptors + fusion BA mean: 0.671496
+- no stable incremental gain
+
+Multiple temporal tests:
+- February raw Kruskal-Wallis p=0.034046
+- adjusted Bonferroni/FDR p=0.204277
+- no epoch significant at FDR 0.05
+
+Interpretation:
+Exploratory separability only. No claims of yield, physiology, causality,
+operational crop-map accuracy, or universal SAR superiority.

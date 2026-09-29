@@ -1,0 +1,11 @@
+geopandas
+pandas
+numpy
+rasterio
+shapely
+pyproj
+requests
+scikit-learn
+matplotlib
+hyp3_sdk
+asf_search\nsarsen\n

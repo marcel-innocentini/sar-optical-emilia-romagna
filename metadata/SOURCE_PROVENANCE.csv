@@ -1,0 +1,7 @@
+source_id,source,product,access,processing_or_role,license_or_policy,notes
+ER_UDS2023,Regione Emilia-Romagna,Uso del Suolo di dettaglio 2023,official regional download,reference labels and polygons,CC BY 4.0,EPSG:25832; classes Cv Cf Co Sn Se
+ASF_META,Alaska Satellite Facility,Sentinel-1 search catalogue,ASF Search API,scene metadata and SLC/GRD inventory,Copernicus Sentinel data policy,Used to fix orbit path frame and SLC pair
+AWS_S1_GRD,Element 84 AWS Open Data,Sentinel-1 GRD public archive,S3 no-sign-request,raw GRD archive retained,Copernicus Sentinel data policy,Five 2023 scenes on descending path 95 frame 445
+PC_S1_RTC,Microsoft Planetary Computer,Sentinel-1 RTC,public STAC plus signed asset URLs,Catalyst RTC gamma0 10 m with PlanetDEM,Copernicus Sentinel data policy,Primary quantitative VV/VH source
+ES_S2,Element 84 Earth Search,Sentinel-2 Collection-1 L2A,public STAC and AWS COGs,optical reflectance and SCL,Copernicus Sentinel data policy,Scale 0.0001 offset -0.1 applied before indices
+HYP3,ASF HyP3,Sentinel-1 InSAR/coherence,authenticated on-demand,pending SLC coherence,Copernicus/ASF terms,Dry-run script prepared; no job submitted yet

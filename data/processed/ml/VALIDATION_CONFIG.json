@@ -1,0 +1,17 @@
+{
+  "validation": "leave-one-zone-out",
+  "zones": [
+    "Castel_Bolognese",
+    "Faenza",
+    "Imola"
+  ],
+  "n_seeds": 20,
+  "seeds": "0..19",
+  "classifier": "RandomForestClassifier",
+  "n_estimators": 300,
+  "max_features": "sqrt",
+  "min_samples_leaf": 2,
+  "class_weight": "balanced",
+  "primary_buffer_m": 20,
+  "note": "Algorithmic stability only; not an inferential significance test."
+}

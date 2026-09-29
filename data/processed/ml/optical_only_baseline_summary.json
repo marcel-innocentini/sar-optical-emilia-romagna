@@ -1,0 +1,20 @@
+{
+  "n_polygons": 47,
+  "n_features_raw": 20,
+  "classes": [
+    "ANNUAL",
+    "OLIVE",
+    "ORCHARD",
+    "VINEYARD"
+  ],
+  "zones": [
+    "Castel_Bolognese",
+    "Faenza",
+    "Imola"
+  ],
+  "accuracy": 0.6382978723404256,
+  "balanced_accuracy": 0.6439393939393939,
+  "macro_f1": 0.631547619047619,
+  "validation": "leave-one-zone-out; three geographic folds",
+  "interpretation": "Exploratory baseline only; small curated pilot sample, not an external validation."
+}

@@ -1,0 +1,6 @@
+{
+  "validation": "Leave-one-zone-out geographic validation across Imola, Castel Bolognese, Faenza.",
+  "purpose": "Exploratory comparison of information content, not external validation or causal inference.",
+  "sample": "47 curated pilot polygons; 20 m internal cores.",
+  "coherence": "Not included yet; add after SLC pair processing."
+}

@@ -1,0 +1,2 @@
+n_seeds,fusion_minus_optical_mean,fusion_minus_optical_sd,fusion_minus_optical_median,fusion_gt_optical_seeds,fusion_eq_optical_seeds,fusion_lt_optical_seeds,fusion_minus_sar_mean
+30,0.05220959595959589,0.030887948667782026,0.041666666666666574,29,0,1,0.2056186868686868
