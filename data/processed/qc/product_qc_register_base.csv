@@ -1,0 +1,77 @@
+product_type,product_id,date_or_pair,status,reason
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230110T051944_20230110T052009_046717_0599A6_E28E,2023-01-10,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230122T051944_20230122T052009_046892_059F8E_F74B,2023-01-22,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230203T051944_20230203T052009_047067_05A563_0D3E,2023-02-03,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230215T051943_20230215T052008_047242_05AB3E_CB06,2023-02-15,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230227T051943_20230227T052008_047417_05B13B_EE7B,2023-02-27,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230311T051943_20230311T052008_047592_05B725_358B,2023-03-11,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230323T051943_20230323T052008_047767_05BD0A_CD20,2023-03-23,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230404T051943_20230404T052008_047942_05C2F3_319E,2023-04-04,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230416T051944_20230416T052009_048117_05C8DF_91E5,2023-04-16,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230428T051944_20230428T052009_048292_05CEBB_C2DC,2023-04-28,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230510T051945_20230510T052010_048467_05D488_5F72,2023-05-10,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230522T051946_20230522T052011_048642_05D9B6_20B9,2023-05-22,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230603T051946_20230603T052011_048817_05DEE7_7478,2023-06-03,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230615T051947_20230615T052012_048992_05E43B_2276,2023-06-15,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230627T051947_20230627T052012_049167_05E991_61B7,2023-06-27,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230709T051948_20230709T052013_049342_05EEF9_D42E,2023-07-09,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230721T051949_20230721T052014_049517_05F44B_CBA7,2023-07-21,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230802T051949_20230802T052014_049692_05F9B6_3A3D,2023-08-02,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230814T051950_20230814T052015_049867_05FF6B_404B,2023-08-14,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230826T051951_20230826T052016_050042_060562_E0D4,2023-08-26,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230907T051951_20230907T052016_050217_060B56_A22B,2023-09-07,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20230919T051952_20230919T052017_050392_061156_4FE8,2023-09-19,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20231001T051952_20231001T052017_050567_061751_3878,2023-10-01,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20231013T051952_20231013T052017_050742_061D51_754B,2023-10-13,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20231025T051952_20231025T052017_050917_06234A_1211,2023-10-25,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20231106T051952_20231106T052017_051092_062947_5150,2023-11-06,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20231118T051952_20231118T052017_051267_062F56_B39C,2023-11-18,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20231130T051951_20231130T052016_051442_063550_8ECE,2023-11-30,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20231212T051951_20231212T052016_051617_063B7D_BEFE,2023-12-12,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_ACQUISITION,S1A_IW_GRDH_1SDV_20231224T051950_20231224T052015_051792_064185_0ABD,2023-12-24,PASS,orbit/frame/direction/polarizations and cadence consistent
+S1_RTC,RTC_20230110,20230110,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230122,20230122,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230203,20230203,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230215,20230215,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230227,20230227,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230311,20230311,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230323,20230323,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230404,20230404,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230416,20230416,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230428,20230428,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230510,20230510,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230522,20230522,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230603,20230603,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230615,20230615,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230627,20230627,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230709,20230709,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230721,20230721,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230802,20230802,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230814,20230814,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230826,20230826,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230907,20230907,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20230919,20230919,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20231001,20231001,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20231013,20231013,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20231025,20231025,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20231106,20231106,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20231118,20231118,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20231130,20231130,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20231212,20231212,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_RTC,RTC_20231224,20231224,PASS,"VV/VH RTC products passed grid, validity and distribution checks"
+S1_COHERENCE,20230203_20230215,20230203_20230215,WARNING,|perpendicular baseline|=225.6 m
+S1_COHERENCE,20230404_20230416,20230404_20230416,PASS,12-day pair; baseline within project QC band; coherence range/coverage valid
+S1_COHERENCE,20230603_20230615,20230603_20230615,PASS,12-day pair; baseline within project QC band; coherence range/coverage valid
+S1_COHERENCE,20230802_20230814,20230802_20230814,PASS,12-day pair; baseline within project QC band; coherence range/coverage valid
+S1_COHERENCE,20231001_20231013,20231001_20231013,PASS,12-day pair; baseline within project QC band; coherence range/coverage valid
+S1_COHERENCE,20231130_20231212,20231130_20231212,PASS,12-day pair; baseline within project QC band; coherence range/coverage valid
+S2_L2A,20230217,2023-02-17,PASS,100.0% polygons >=80% valid; minimum=100.0%
+S2_L2A,20230523,2023-05-23,PASS,100.0% polygons >=80% valid; minimum=100.0%
+S2_L2A,20230717,2023-07-17,PASS,100.0% polygons >=80% valid; minimum=100.0%
+S2_L2A,20230910,2023-09-10,PASS,100.0% polygons >=80% valid; minimum=100.0%
+S2_L2A,20231010,2023-10-10,WARNING,89.4% polygons >=80% valid; minimum=0.0%
+S1_S2_PAIR,20230215_20230217,2023-02-15 / 2023-02-17,PASS,native CRS differs (S1 EPSG:32633 vs S2 EPSG:32632); comparison uses common polygon support
+S1_S2_PAIR,20230522_20230523,2023-05-22 / 2023-05-23,PASS,native CRS differs (S1 EPSG:32633 vs S2 EPSG:32632); comparison uses common polygon support
+S1_S2_PAIR,20230721_20230717,2023-07-21 / 2023-07-17,WARNING,temporal offset=4 d; native CRS differs (S1 EPSG:32633 vs S2 EPSG:32632); comparison uses common polygon support
+S1_S2_PAIR,20230907_20230910,2023-09-07 / 2023-09-10,PASS,native CRS differs (S1 EPSG:32633 vs S2 EPSG:32632); comparison uses common polygon support
+S1_S2_PAIR,20231013_20231010,2023-10-13 / 2023-10-10,PASS,native CRS differs (S1 EPSG:32633 vs S2 EPSG:32632); comparison uses common polygon support

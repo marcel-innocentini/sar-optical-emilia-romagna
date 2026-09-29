@@ -1,0 +1,15 @@
+{
+  "workflow": "dataset -> quality control -> anomaly investigation -> reprocessing -> validation -> reporting",
+  "status_counts": {
+    "PASS": 73,
+    "WARNING": 3
+  },
+  "s1_acquisitions": 30,
+  "s1_rtc_rasters": 60,
+  "coherence_pairs": 6,
+  "s2_dates": 5,
+  "cross_sensor_pairs": 5,
+  "parcel_anomaly_triggers": 54,
+  "acquisition_anomaly_flags": 0,
+  "baseline_reprocessing_max_rmse": 0.0
+}

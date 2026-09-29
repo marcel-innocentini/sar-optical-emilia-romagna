@@ -1,0 +1,6 @@
+s2_date,s1_date,delta_days,s1_resolution_m,s2_resolution_m,native_crs_match,s1_aoi_coverage,s2_aoi_coverage,common_aoi_coverage,status,reason
+2023-02-17,2023-02-15,2,10.0,10.0,False,0.9999979834094468,0.9999999999999999,0.9999979834094469,PASS,native CRS differs (S1 EPSG:32633 vs S2 EPSG:32632); comparison uses common polygon support
+2023-05-23,2023-05-22,1,10.0,10.0,False,0.9999979834094468,0.9999999999999999,0.9999979834094469,PASS,native CRS differs (S1 EPSG:32633 vs S2 EPSG:32632); comparison uses common polygon support
+2023-07-17,2023-07-21,4,10.0,10.0,False,0.9999979834094468,0.9999999999999999,0.9999979834094469,WARNING,temporal offset=4 d; native CRS differs (S1 EPSG:32633 vs S2 EPSG:32632); comparison uses common polygon support
+2023-09-10,2023-09-07,3,10.0,10.0,False,0.9999979834094468,0.9999999999999999,0.9999979834094469,PASS,native CRS differs (S1 EPSG:32633 vs S2 EPSG:32632); comparison uses common polygon support
+2023-10-10,2023-10-13,3,10.0,10.0,False,0.9999979834094468,0.9999999999999999,0.9999979834094469,PASS,native CRS differs (S1 EPSG:32633 vs S2 EPSG:32632); comparison uses common polygon support

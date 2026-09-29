@@ -6,14 +6,19 @@ authors:
   - family-names: "Innocentini"
     given-names: "Marcel de Mello"
     orcid: "https://orcid.org/0009-0006-2409-0946"
-version: "1.0"
+version: "1.1"
 date-released: 2026-09-29
-doi: "10.5281/zenodo.23041619"
+doi: "10.5281/zenodo.23041618"
+repository-code: "https://github.com/marcel-innocentini/sar-optical-emilia-romagna"
 keywords:
   - Sentinel-1
   - Sentinel-2
   - SAR
   - interferometric coherence
+  - Earth observation
+  - data quality
+  - processor validation
+  - reprocessing
   - precision agriculture
   - Emilia-Romagna
   - multi-sensor fusion

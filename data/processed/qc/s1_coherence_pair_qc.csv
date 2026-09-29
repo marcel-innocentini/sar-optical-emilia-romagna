@@ -1,0 +1,7 @@
+pair_id,master_date,slave_date,delta_days,baseline_m,abs_baseline_m,output_resolution_m,range_looks,azimuth_looks,median_polygon_valid_fraction,coherence_median_all_polygons,coherence_p10_all_polygons,coherence_p90_all_polygons,status,reason
+20230203_20230215,2023-02-03,2023-02-15,12,-225.6053,225.6053,40.0,10,2,1.0,0.9128071069717408,0.7895132303237915,0.9581569314002991,WARNING,|perpendicular baseline|=225.6 m
+20230404_20230416,2023-04-04,2023-04-16,12,-36.7793,36.7793,40.0,10,2,1.0,0.6517634093761444,0.4077575415372848,0.8622919917106628,PASS,12-day pair; baseline within project QC band; coherence range/coverage valid
+20230603_20230615,2023-06-03,2023-06-15,12,-35.582,35.582,40.0,10,2,1.0,0.3921694308519363,0.20628256946802137,0.5521236658096312,PASS,12-day pair; baseline within project QC band; coherence range/coverage valid
+20230802_20230814,2023-08-02,2023-08-14,12,-7.6156,7.6156,40.0,10,2,1.0,0.7364409565925598,0.4293477654457092,0.8521994173526763,PASS,12-day pair; baseline within project QC band; coherence range/coverage valid
+20231001_20231013,2023-10-01,2023-10-13,12,-167.895,167.895,40.0,10,2,1.0,0.9128918349742888,0.7376358866691589,0.9498858213424684,PASS,12-day pair; baseline within project QC band; coherence range/coverage valid
+20231130_20231212,2023-11-30,2023-12-12,12,173.3043,173.3043,40.0,10,2,1.0,0.8736316561698914,0.7004257798194885,0.9578565120697021,PASS,12-day pair; baseline within project QC band; coherence range/coverage valid
