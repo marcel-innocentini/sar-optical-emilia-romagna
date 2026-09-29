@@ -1,5 +1,8 @@
 # Version 1.1 — EO Data Quality & Processing Validation
 
+**Version-specific DOI:** https://doi.org/10.5281/zenodo.23045703
+**Concept DOI (all versions):** https://doi.org/10.5281/zenodo.23041618
+
 Version 1.1 extends the existing SAR–Optical Emilia-Romagna pilot with a traceable EO product-quality and processor-validation workflow. It is not a separate project.
 
 ## Added in v1.1

@@ -8,6 +8,7 @@ A reproducible agricultural remote-sensing pilot integrating **Sentinel-1 C-band
 **ORCID:** 0009-0006-2409-0946  
 **Version:** 1.1
 **Canonical all-versions archive:** https://doi.org/10.5281/zenodo.23041618
+**Version 1.1 DOI:** https://doi.org/10.5281/zenodo.23045703
 **Version 1.0 DOI:** https://doi.org/10.5281/zenodo.23041619
 
 ![Study area](figures/study_area_map.png)
@@ -101,13 +102,13 @@ The canonical all-versions Zenodo archive is:
 
 **https://doi.org/10.5281/zenodo.23041618**
 
-Version 1.0 is archived at **https://doi.org/10.5281/zenodo.23041619**. The v1.1 version-specific DOI will be added here after Zenodo archival publication.
+Version 1.1 is archived at **https://doi.org/10.5281/zenodo.23045703**. Version 1.0 remains archived at **https://doi.org/10.5281/zenodo.23041619**.
 
 ## Citation
 
-Until the v1.1 version-specific DOI is minted, cite the project through the canonical all-versions DOI:
+For this release, cite the version-specific Zenodo DOI:
 
-> Innocentini, M. de M. (2026). *SAR–Optical Multi-Sensor Monitoring of Perennial Crops in Emilia-Romagna, Italy* (Version 1.1). Zenodo. https://doi.org/10.5281/zenodo.23041618
+> Innocentini, M. de M. (2026). *SAR–Optical Multi-Sensor Monitoring of Perennial Crops in Emilia-Romagna, Italy* (Version 1.1). Zenodo. https://doi.org/10.5281/zenodo.23045703
 
 A machine-readable citation is provided in [CITATION.cff](CITATION.cff).
 
